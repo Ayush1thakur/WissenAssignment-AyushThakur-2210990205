@@ -2,26 +2,27 @@
 
 A dynamic vacation calendar to visualize public holidays across multiple countries. Powered by API Ninja's Public Holiday API. Plan your vacations smarter!
 
+![Holiday Week Highlighting](https://github.com/Ayush1thakur/WissenAssignment-AyushThakur-2210990205/blob/main/snapshots/10%20(1).png)
+
 🚀 Features
 🎨 Task 1 – Holiday Week Highlighting
 
 Light green weeks: Weeks with 1 holiday
-
 Dark green weeks: Weeks with more than 1 holiday
 
-Quickly spot holiday-packed weeks at a glance
+![Quarterly View](https://github.com/Ayush1thakur/WissenAssignment-AyushThakur-2210990205/blob/main/snapshots/10%20(4).png)
 
 🌍 Task 2 – Multi-Country Support
 
 Select from a dropdown of multiple countries
-
-Holidays update dynamically based on your selection
+![Monthly View](https://github.com/Ayush1thakur/WissenAssignment-AyushThakur-2210990205/blob/main/snapshots/10%20(3).png)
 
 📅 Task 3 – Multiple Calendar Views
 
 Monthly view – Standard month layout
-
 Quarterly view – See 3 months at a time for better planning
+![Country Dropdown](https://github.com/Ayush1thakur/WissenAssignment-AyushThakur-2210990205/blob/main/snapshots/10%20(2).png)
+
 
 🖼 Screenshots
 
