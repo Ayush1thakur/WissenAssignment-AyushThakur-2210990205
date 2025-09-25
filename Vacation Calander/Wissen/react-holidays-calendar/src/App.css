@@ -1,0 +1,97 @@
+/* Container */
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.controls input {
+  padding: 4px 8px;
+  font-size: 14px;
+  width: 80px;
+}
+
+.controls button {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 4px;
+  background: #1976d2;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.controls button:hover {
+  background: #1565c0;
+}
+
+/* Calendar */
+.calendar {
+  background: white;
+  border-radius: 8px;
+  padding: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  margin: 0 auto 20px;
+  width: fit-content;
+}
+
+/* Month title */
+.calendar h3 {
+  text-align: center;
+  margin: 10px 0;
+}
+
+/* Week headers */
+.week-header {
+  display: flex;
+  font-weight: bold;
+  background: #e0e0e0;
+  padding: 4px 0;
+  border-radius: 4px;
+}
+
+.week-header div {
+  flex: 1;
+  text-align: center;
+}
+
+/* Weeks */
+.week {
+  display: flex;
+  border-radius: 4px;
+  margin: 2px 0;
+  overflow: hidden;
+  transition: background 0.3s;
+}
+
+.week.light {
+  background: #c8e6c9; /* light green */
+  color: #2e7d32;
+}
+
+.week.dark {
+  background: #388e3c; /* dark green */
+  color: white;
+}
+
+/* Days */
+.day {
+  flex: 1;
+  padding: 6px 0;
+  text-align: center;
+  border-right: 1px solid rgba(255,255,255,0.3);
+}
+
+.day:last-child {
+  border-right: none;
+}
+
+/* Holiday marker */
+.holiday {
+  font-size: 11px;
+  color: #d32f2f;
+  font-weight: bold;
+}
