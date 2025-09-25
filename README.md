@@ -1,25 +1,44 @@
-🗓️ Vacation Calendar Project
+🌴 Vacation Calendar 
+⚠️ Notes Non-premium API access may have limited requests per month
 
-Some of the days marked as holidays are public sector holidays. This project uses the Calendarific API to fetch holiday data.
+A dynamic vacation calendar to visualize public holidays across multiple countries. Powered by API Ninja's Public Holiday API. Plan your vacations smarter!
 
-✨ Functionalities
+🚀 Features
+🎨 Task 1 – Holiday Week Highlighting
 
-Displays a calendar view with holidays marked:
+Light green weeks: Weeks with 1 holiday
 
-🟩 Light Green → Weeks with 1 holiday.
+Dark green weeks: Weeks with more than 1 holiday
 
-🟢 Dark Green → Weeks with more than 1 holiday.
+Quickly spot holiday-packed weeks at a glance
 
-Supports multiple countries – simply type the country code (e.g., US, IN, FR) to view holidays for that region.
+🌍 Task 2 – Multi-Country Support
 
-Automatically highlights holidays based on the selected country.
+Select from a dropdown of multiple countries
 
-Multiple Countries: 
-1. India
-![Screenshot 21](https://raw.githubusercontent.com/Ayush1thakur/WissenAssignment-AyushThakur-2210990205/main/snapshots/Screenshot%20(21).png)
-2. Canada
-![Holiday Calendar View](https://raw.githubusercontent.com/Ayush1thakur/WissenAssignment-AyushThakur-2210990205/main/snapshots/Screenshot%20(22).png)
+Holidays update dynamically based on your selection
 
-Quarterly View
-![Holiday Calendar View](https://raw.githubusercontent.com/Ayush1thakur/WissenAssignment-AyushThakur-2210990205/main/snapshots/Screenshot%20(23).png)
+📅 Task 3 – Multiple Calendar Views
 
+Monthly view – Standard month layout
+
+Quarterly view – See 3 months at a time for better planning
+
+🖼 Screenshots
+
+
+
+
+⚡ Live Demo
+
+Try it here
+
+🛠 Technologies Used
+
+React
+
+FullCalendar
+
+Axios
+
+API Ninja Public Holiday API
