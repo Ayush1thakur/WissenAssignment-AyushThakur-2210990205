@@ -1,6 +1,6 @@
 🌴 Vacation Calendar 
 
-A dynamic vacation calendar to visualize public holidays across multiple countries. Powered by API Ninja's Public Holiday API. Plan your vacations smarter!
+A dynamic vacation calendar to visualize public holidays across multiple countries. Powered by API Ninja's Public Holiday API.
 
 ![Holiday Week Highlighting](https://github.com/Ayush1thakur/WissenAssignment-AyushThakur-2210990205/blob/main/snapshots/10%20(1).png)
 
@@ -27,8 +27,7 @@ Quarterly view – See 3 months at a time for better planning
 🖼 Screenshots
 
 
-⚠️ Notes Non-premium API access may have limited requests per month
-
+⚠️ Notes Non-premium API has minimum acess to countries, API calls, holidays are available for 2025 only.
 
 
 🛠 Technologies Used
