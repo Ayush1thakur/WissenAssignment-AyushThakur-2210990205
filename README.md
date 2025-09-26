@@ -9,6 +9,7 @@ A dynamic vacation calendar to visualize public holidays across multiple countri
 
 Light green weeks: Weeks with 1 holiday
 Dark green weeks: Weeks with more than 1 holiday
+
 Red colour Days are the Holidays itself.
 
 ![Quarterly View](https://github.com/Ayush1thakur/WissenAssignment-AyushThakur-2210990205/blob/main/snapshots/10%20(4).png)
